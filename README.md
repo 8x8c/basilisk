@@ -1,7 +1,11 @@
 # basilisk
 Rust file encryption program implementing serpent
 
-this is a fork. I have to give the original author credit, as it is the ONLY rust cli serpent algo that encrypts at the time i searched. 
+/////////////////////////////////////////////////////////////////////////
+
+above is the original readme. 
+
+this is a fork. I have to give the original author credit, as it is the ONLY rust cli serpent algo that encrypts files at the time i searched. 
 
 
 Here is a chat gpt audit of the code
